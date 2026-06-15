@@ -1,0 +1,16 @@
+# Core (needed for free offline mode)
+numpy
+pandas
+matplotlib
+rich
+
+# Web UI (interactive dashboard)
+streamlit
+plotly
+
+# Real market data (free, no API key). Falls back to synthetic data if absent.
+yfinance
+
+# Optional: only used by AI mode
+anthropic
+python-dotenv

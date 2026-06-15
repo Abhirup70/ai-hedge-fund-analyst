@@ -1,0 +1,14 @@
+# Virtual environment
+.venv/
+venv/
+
+# Secrets — never commit your API key
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Generated outputs (keep the folder, ignore the files)
+outputs/*
+!outputs/.gitkeep
