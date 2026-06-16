@@ -110,7 +110,8 @@ An interactive UI with sliders, the AI-mode toggle, and a zoomable Plotly foreca
 
 ### 📚 Want to understand every concept?
 
-See **[STUDY_GUIDE.md](STUDY_GUIDE.md)** — a tutor-style breakdown of every finance and technical idea in this project (Monte Carlo, VaR/CVaR, multi-agent design, the safety veto…) plus an interview Q&A bank.
+- **[CODE_DEEP_DIVE.md](CODE_DEEP_DIVE.md)** — start here if you want to understand the *code itself* from zero: every file, function, and key line explained from the basics, with diagrams and a fully traced real run.
+- **[STUDY_GUIDE.md](STUDY_GUIDE.md)** — a tutor-style breakdown of every finance and technical *concept* (Monte Carlo, VaR/CVaR, multi-agent design, the safety veto…) plus an interview Q&A bank.
 
 ### Useful flags
 ```bash
